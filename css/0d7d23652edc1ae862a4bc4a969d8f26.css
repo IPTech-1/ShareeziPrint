@@ -14124,7 +14124,7 @@ body.rtl .elementor-widget-slides .elementor-swiper-button-prev {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    visibility: hidden
+    visibility: visible
 }
 
 .elementor-jet-carousel .jet-carousel .elementor-slick-slider:not(.slick-initialized)~.jet-arrow,
